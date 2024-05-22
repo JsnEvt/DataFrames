@@ -2,12 +2,12 @@
       
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://www.udemy.com/">
-  	<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Curso Udemy" width="500">
-  </a>
-
   <a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">
     <img alt="Feito por Rodrigo Soares" src="https://img.shields.io/badge/feito%20por-Rodrigo Soares-%237519C1">
+  </a>
+
+  <a href="https://www.udemy.com/">
+  	<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Curso Udemy">
   </a>
     
 </p>
