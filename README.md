@@ -61,8 +61,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Sinceros agradecimentos ao professor Rodrigo Soares.
 
-
 ---
+
+> Veja o arquivo na íntegra: [https://github.com/JsnEvt/DataFrames/blob/main/Pandas%20%26%20DataFrames%20-%20Salaries.ipynb]
 
 ## 🦸 Autor
 
