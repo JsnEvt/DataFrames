@@ -6,7 +6,7 @@
     <img alt="Feito por Rodrigo Soares" src="https://img.shields.io/badge/feito%20por-Rodrigo Soares-%237519C1">
   </a>
 
-  [![Udemy](https://github.com/JsnEvt/DataFrames/blob/main/assets/udemy.png)](https://www.udemy.com)
+  [![Udemy](https://github.com/JsnEvt/DataFrames/blob/main/assets/udemy_b.png)](https://www.udemy.com)
     
 </p>
 
