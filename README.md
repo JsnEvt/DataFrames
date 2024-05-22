@@ -1,13 +1,16 @@
 <p align="center">  
       
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">
     <img alt="Feito por Rodrigo Soares" src="https://img.shields.io/badge/feito%20por-Rodrigo Soares-%237519C1">
   </a>
-<div align="center">
-  [![Udemy](https://github.com/JsnEvt/DataFrames/assets/udemy_b25.png)](https://www.udemy.com)
-</div>
+
+  <div align="center">
+	  <a  href="https://www.udemy.com">
+		  <img src="https://github.com/JsnEvt/DataFrames/blob/main/assets/udemy_b25.png">
+	  </a>
+  </div>
+<p>
+	<a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">Conheça o curso</a>
 </p>
 
 <h1 align="center">
