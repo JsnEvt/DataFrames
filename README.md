@@ -63,7 +63,10 @@ Sinceros agradecimentos ao professor Rodrigo Soares.
 
 ---
 
-> Veja o arquivo na íntegra: [https://github.com/JsnEvt/DataFrames/blob/main/Pandas%20%26%20DataFrames%20-%20Salaries.ipynb]
+> Veja os arquivos na íntegra: [https://github.com/JsnEvt/DataFrames/blob/main/Pandas%20%26%20DataFrames%20-%20Salaries.ipynb]
+			       [https://github.com/JsnEvt/DataFrames/blob/main/Salaries%20-%20modificando%20conteudo-auxiliar.ipynb]
+			       [https://github.com/JsnEvt/DataFrames/blob/main/Salaries%20-%20modificando%20conteudo.ipynb]
+
 
 ## 🦸 Autor
 
