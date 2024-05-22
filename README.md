@@ -10,11 +10,11 @@
 	  </a>
   </div>
 <p>
-	<a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">Conheça o curso</a>
+	<a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">Visite a página do curso na Udemy</a>
 </p>
 
 <h1 align="center">
-    <img alt="Exercício Pandas - Análise de dados " title="#analisededados" src="./assets/banner.png" />
+    <img alt="Exercício Pandas - Análise de dados " title="#analisededados" src="./assets/dataframes_cargosxsalarios.png" />
 </h1>
 
 <h4 align="center"> 
