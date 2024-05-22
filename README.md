@@ -6,9 +6,7 @@
     <img alt="Feito por Rodrigo Soares" src="https://img.shields.io/badge/feito%20por-Rodrigo Soares-%237519C1">
   </a>
 
-  <a href="https://www.udemy.com/">
-  	<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" alt="Curso Udemy">
-  </a>
+  [!Udemy](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)(https://www.udemy.com)
     
 </p>
 
