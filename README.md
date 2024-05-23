@@ -1,3 +1,6 @@
+# Data Science Dataframes
+## Simples Análise - Python/Pandas
+
 <p align="center">  
       
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -22,14 +25,13 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-a-atividade">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
 </p>
 
-## 💻 Sobre o projeto
+## 💻 Sobre a atividade
 
 Pandas - uma biblioteca Python para análise de dados.
 
@@ -44,8 +46,6 @@ um conteúdo resumido para um estudo dirigido.
 	- Coleta
 	- Análise
 	- Interpretação rápida a partir dos gráficos
-
----
 
 ---
 
@@ -79,10 +79,6 @@ Sinceros agradecimentos ao professor Rodrigo Soares.
 
 [![Gmail Badge](https://img.shields.io/badge/-jasonemsw10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonemsw10@gmail.com)](mailto:jasonemsw10@gmail.com)
 
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito por Jason Everton 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jason-everton/)
 
