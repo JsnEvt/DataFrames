@@ -12,9 +12,6 @@
 		  <img src="https://github.com/JsnEvt/DataFrames/blob/main/assets/udemy_b25.png">
 	  </a>
   </div>
-<p>
-	<a href="https://www.udemy.com/course/python-para-data-science-e-machine-learning/">Visite a página do curso na Udemy</a>
-</p>
 
 <h1 align="center">
     <img alt="Exercício Pandas - Análise de dados " title="#analisededados" src="./assets/dataframes_cargosxsalarios.png" />
@@ -24,54 +21,35 @@
 	🚧  Análise de dados com Pandas - Concluído  🚧
 </h4>
 
-<p align="center">
- <a href="#-sobre-a-atividade">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
-</p>
+# Projeto de Tratamento de Dados - Salários
 
-## 💻 Sobre a atividade
+Este projeto faz parte do curso **Python para Data Science e Machine Learning** da Udemy e tem como objetivo principal demonstrar o **tratamento e análise de dados** utilizando a biblioteca **pandas**.
 
-Pandas - uma biblioteca Python para análise de dados.
+## Descrição do Projeto
 
-Exercício desenvolvido com o IDE Jupyter Notebook para facilitar a extração de dados através do retorno das funções para usarmos na função posterior.
+O projeto utiliza um conjunto de dados de salários pagos para realizar operações comuns de **Data Wrangling**. As principais tarefas realizadas incluem:
 
----
+- Leitura de dados a partir de arquivos CSV.
+- Limpeza de dados ausentes ou inconsistentes.
+- Filtragem e seleção de colunas relevantes.
+- Agrupamento e resumo de informações.
+- Transformações e cálculos sobre os dados.
+- Preparação dos dados para análises futuras ou modelagem.
 
-## ⚙️ Funcionalidades
+O **pandas** é a biblioteca central utilizada neste projeto, fornecendo estruturas de dados eficientes como **DataFrame** e **Series**, permitindo manipular, explorar e transformar os dados de forma rápida e intuitiva.
 
-- [x] A coleta de informções específicas em um banco de dados, fornecerá a base para construção de gráficos enxutos focados em entregar
-um conteúdo resumido para um estudo dirigido.
-	- Coleta
-	- Análise
-	- Interpretação rápida a partir dos gráficos
+## Como Executar no VS Code
 
----
+Siga os passos abaixo para rodar o projeto diretamente no VS Code:
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-#### **Jupyter Notebook / Python / Pandas**  
-
--   **[Jupyter](https://jupyter.org/install)**
--   **[Python](https://www.python.org/)**
--   **[Pandas](https://pandas.pydata.org/)**
-
-
-## 👨‍💻 Contribuidores
-
-Sinceros agradecimentos ao professor Rodrigo Soares.
-
----
-
-> Veja os arquivos na íntegra:
-
-> [https://github.com/JsnEvt/DataFrames/blob/main/Pandas%20%26%20DataFrames%20-%20Salaries.ipynb]
-> [https://github.com/JsnEvt/DataFrames/blob/main/Salaries%20-%20modificando%20conteudo-auxiliar.ipynb]
-> [https://github.com/JsnEvt/DataFrames/blob/main/Salaries%20-%20modificando%20conteudo.ipynb]
-
+1. **Clonar o repositório (opcional)**:
+   ```bash
+   git clone https://github.com/JsnEvt/DataFrames.git
+   cd DataFrames
+2. Abra o arquivo no VSCode:
+   Pandas & DataFrames - Salaries.jpynb
+   
+   Execute as células em ordem
 
 ## 🦸 Autor
 
